@@ -16,3 +16,5 @@ This example uses plain Cordova 3.4+, with the command-line commands.
 8. cordova emulate android
 
 Works with iOS platform as well. The zip plugin does not work on wp8 (yet).
+
+See also [this blogpost](http://weblogs.asp.net/soever/archive/2014/03/21/cordova-file-transfer-unzip-and-present-adventures.aspx#.U0caOPmSyIk).
